@@ -1,0 +1,16 @@
+---
+:id: 79662403
+:submitters:
+- :name: Yueshan Wang
+  :email: yueshan@umd.edu
+- :name: Mitchell Fanger
+  :email: mfanger@umd.edu
+- :name: Matvey Stepanov
+  :email: mpstepan@umd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-05-19 03:58:58.359483000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-05-18 20:58:58.359483000 Z
+:status: failed
+:score: 130.0
